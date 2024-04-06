@@ -8,7 +8,7 @@ const App = () => {
  
   return (
     <>
-    <div>Welcome to Prince</div>
+    <div className='title' >Q_Learn</div>
     <Search/>
     <Pagination/>
     <Stories/>
